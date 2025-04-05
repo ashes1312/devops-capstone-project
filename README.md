@@ -1,5 +1,5 @@
 # DevOps Capstone Template
-![Build Status](https://github.com/ashes1312/devops-capstone-project/actions/workflows/Ci-Build.yaml/badge.svg)
+![Build Status](https://github.com/ashes1312/devops-capstone-project/actions/workflows/CI%Build.yaml/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
